@@ -1,75 +1,92 @@
-*  {
-    background-color: #F7F7F7;
+* {
+  background-color: #f7f7f7;
 }
 
 .Heading {
-    color: #0A2342;
-    font-family: "Montserrat", sans-serif;
-    font-size: 2.5rem;
-    text-align: center;
+  color: #0a2342;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
 }
 
 .Main_heading {
-    color: #072141;
-    font-family: "Montserrat", sans-serif;
-    font-size: 1.7rem;
+  color: #072141;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.7rem;
+  margin-bottom: 0px;
 }
 
 .Dates {
-    color: #6E6E6E;
-    font-family: "Lato", sans-serif;
-    font-size: 1.2rem;
+  color: #6e6e6e;
+  font-family: "Lato", sans-serif;
+  font-size: 1.2rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 p {
-    color: #1A1A1A;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
+  color: #1a1a1a;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  margin-top: 0px;
 }
 
 hr {
-    color: #DADADA;
+  color: #dadada;
+  margin: 0px;
 }
 
 .Job_title {
-    color: #0A2342;
+  color: #0a2342;
+  text-transform: uppercase;
 }
 
 .Duties {
-    font-style: italic;
-    color: #333333;
+  font-style: italic;
+  color: #333333;
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+  margin-bottom: 0px;
+}
+
+ol {
+  margin-top: 0px;
 }
 
 .Personal_info_label {
-    font-weight: bold;
-    color: #0A2342;
-    font-size: 1.2rem;
+  font-weight: bold;
+  color: #0a2342;
+  font-size: 1.2rem;
 }
 
 .Referee_name {
-    font-weight: bold;
-    color: #0A2342;
+  font-weight: bold;
+  color: #0a2342;
 }
 
 #Head_user {
-    font-weight: bold;
-    color: #0A2342;
+  font-weight: bold;
+  color: #0a2342;
 }
 
 #Dorm_prefect {
-    font-weight: bold;
-    color: #0A2342;
+  font-weight: bold;
+  color: #0a2342;
+}
+
+ol {
 }
 
 li {
-    color: #1A1A1A;
-    font-family: "Open Sans", sans-serif;
-    font-size: 1rem;
+  color: #1a1a1a;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  margin: 0px;
 }
 
 .Disclaimer {
-    font-size: 0.8rem;
-    color: #888888;
-    text-align: center;
-    font-family: "Lato", sans-serif;
+  font-size: 0.8rem;
+  color: #888888;
+  text-align: center;
+  font-family: "Lato", sans-serif;
 }
